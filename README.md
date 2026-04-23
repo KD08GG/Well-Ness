@@ -1,7 +1,9 @@
 # Well-ness
 ### *Find your balance. Live better.*
 
-> A Human-Centered AI wellness app for iOS that transforms invisible health data into visible, actionable decisions — and learns from you over time.
+[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://swift.org)
+
+A Human-Centered AI wellness app for iOS that transforms invisible health data into visible, actionable decisions — and learns from you over time.
 
 ---
 
