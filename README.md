@@ -8,6 +8,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [The Problem](#the-problem)
 - [Features](#features)
 - [Architecture](#architecture)
@@ -39,6 +40,22 @@ The app monitors three wellness dimensions simultaneously:
 | 🟡 **Mindfulness** | Meaningful use of time | App usage, routine, movement |
 
 A central animated sphere reflects the live balance between all three dimensions. When one falls, the AI acts.
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home_insight.png" width="200" alt="Home — Insight Screen"/>
+  <img src="screenshots/action_screen.png" width="200" alt="Action Screen"/>
+  <img src="screenshots/points.png" width="200" alt="Onboarding"/>
+  <img src="screenshots/feedback.png" width="200" alt="Feedback"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/stats_dashboard.png" width="200" alt="Stats Dashboard"/>
+  <img src="screenshots/profile.png" width="200" alt="Profile"/>
+</p>
 
 ---
 
@@ -132,6 +149,14 @@ Well-ness uses a modular five-layer pipeline:
 ## AI System
 
 Well-ness replaces static CoreML models with a **lightweight adaptive regression engine** implemented entirely in Swift.
+
+### Why not Core ML or Create ML?
+
+| Framework | Reason discarded |
+|---|---|
+| Core ML | Requires a pre-trained `.mlmodel` file; no real-time weight updates |
+| Create ML | Full retraining required per update; computationally expensive |
+| Foundation Models | Internet dependency; data leaves the device |
 
 ### How it works
 
@@ -334,17 +359,6 @@ Well-ness is designed privacy-first:
 
 ---
 
-## Requirements
-
-- iOS 17.0 or later
-- iPhone (iPad compatible)
-- Xcode 15.0 or later
-- Swift 5.9 or later
-
-> HealthKit data is unavailable on the iOS Simulator. The app runs correctly with zeroed metrics in the simulator — all UI layouts render properly regardless of data availability.
-
----
-
 ## Project Structure
 
 ```
@@ -383,9 +397,3 @@ Hackathon/
 │
 └── Assets.xcassets/               # App icons and colors
 ```
-
----
-
-## Built at Swift Changemakers Hackathon 2026
-
-*Well-ness does not measure wellness. It makes it actionable. And in doing so, it makes wellness accessible to everyone.*
