@@ -46,15 +46,15 @@ A central animated sphere reflects the live balance between all three dimensions
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home_insight.png" width="200" alt="Home — Insight Screen"/>
-  <img src="screenshots/action_screen.png" width="200" alt="Action Screen"/>
-  <img src="screenshots/points.png" width="200" alt="Onboarding"/>
-  <img src="screenshots/feedback.png" width="200" alt="Feedback"/>
+  <img src="screenshots/home_insight.jepg" width="200" alt="Home — Insight Screen"/>
+  <img src="screenshots/action_screen.jepg" width="200" alt="Action Screen"/>
+  <img src="screenshots/points.jepg" width="200" alt="Onboarding"/>
+  <img src="screenshots/feedback.jepg" width="200" alt="Feedback"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/stats_dashboard.png" width="200" alt="Stats Dashboard"/>
-  <img src="screenshots/profile.png" width="200" alt="Profile"/>
+  <img src="screenshots/stats_dashboard.jepg" width="200" alt="Stats Dashboard"/>
+  <img src="screenshots/profile.jepg" width="200" alt="Profile"/>
 </p>
 
 ---
