@@ -1,5 +1,4 @@
-# Well-ness
-### *Find your balance. Live better.*
+# Well-ness - *Find your balance. Live better.*
 
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://swift.org)
 
