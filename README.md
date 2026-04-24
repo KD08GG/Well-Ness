@@ -47,12 +47,12 @@ A central animated sphere reflects the live balance between all three dimensions
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home_insight.jpeg" width="160" alt="Home — Insight Screen"/>
-  <img src="screenshots/action_screen.jpeg" width="160" alt="Action Screen"/>
-  <img src="screenshots/points.jpeg" width="160" alt="Onboarding"/>
-  <img src="screenshots/feedback.jpeg" width="160" alt="Feedback"/>
-  <img src="screenshots/stats_dashboard.jpeg" width="160" alt="Stats Dashboard"/>
-  <img src="screenshots/profile.jpeg" width="160" alt="Profile"/>
+  <img src="screenshots/home_insight.jpeg" width="150" alt="Home — Insight Screen"/>
+  <img src="screenshots/action_screen.jpeg" width="150" alt="Action Screen"/>
+  <img src="screenshots/points.jpeg" width="150" alt="Onboarding"/>
+  <img src="screenshots/feedback.jpeg" width="150" alt="Feedback"/>
+  <img src="screenshots/stats_dashboard.jpeg" width="150" alt="Stats Dashboard"/>
+  <img src="screenshots/profile.jpeg" width="150" alt="Profile"/>
 </p>
 
 ---
